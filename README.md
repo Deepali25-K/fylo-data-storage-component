@@ -13,14 +13,14 @@ Users should be able to:
 
 ### Screenshot
 
-![Web]()
+![Web](/screenshots/FM-14(2).png)
 
-![Mobile]()
+![Mobile](/screenshots/FM-14(1).png)
 
 
 ### Links
 
-- Live Site URL: [Demo]()
+- Live Site URL: [Demo](https://fylo-data-storage-component-deepali.netlify.app/)
 
 ## My process
 
