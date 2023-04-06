@@ -225,7 +225,6 @@ body {
 		display: flex;
 		flex-direction: row;
 		align-items: flex-end;
-		padding-bottom: 5rem;
 	}
 
 	.first-box {
